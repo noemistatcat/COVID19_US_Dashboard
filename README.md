@@ -1,1 +1,1 @@
-"# COVID19_US_Dashboard" 
+# COVID19 US Dashboard
